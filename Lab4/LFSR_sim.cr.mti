@@ -1,0 +1,8 @@
+C:/Users/Alvin/Desktop/ECE/ECE371/Lab4/LFSR_PRNG.v {1 {vlog -work work -stats=none C:/Users/Alvin/Desktop/ECE/ECE371/Lab4/LFSR_PRNG.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module LFSR_PRNG
+
+Top level modules:
+	LFSR_PRNG
+
+} {} {}}
